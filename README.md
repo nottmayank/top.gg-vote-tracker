@@ -53,7 +53,6 @@ npm install
 | Open Source | ✅  |
 | Runs on private webhook server | ✅  |
 | Fetches user from Discord's API | ✅  |
-============================
 
 ## 💁‍♂️ Support
 * For any kind of help you can contact me on [Discord](https://discord.com/users/506339635103006721) FrenZy#1320
