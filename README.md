@@ -23,7 +23,7 @@ git clone https://github.com/redleague/discord-music-bot.git
 cd discord-music-bot
 npm install
 ```
-============================
+-------------------------------------------
 
 ## 🧠 Configuration
 * Create an application from Discord's developer portal [here]()
