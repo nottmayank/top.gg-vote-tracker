@@ -19,8 +19,8 @@ node -v
 ## 💨 Insallation
 * Make sure Git is installed on your PC or download ZIP file or directly fork to your server
 ```
-git clone https://github.com/redleague/discord-music-bot.git
-cd discord-music-bot
+git clone https://github.com/nottmayank/top.gg-vote-tracker
+cd top.gg-vote-tracker
 npm install
 ```
 -------------------------------------------
