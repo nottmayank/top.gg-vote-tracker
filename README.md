@@ -5,19 +5,8 @@
 
 Best and simple way to track your [Top.gg](https://top.gg/) votes
 ============================
-
-## 🚀 Getting Started
-* Must have VPS server, you can also use replit, heroku etc
-* Make sure you have Node v16x installed on your PC. To check node.js version:
-```
-node -v
-```
-* If you do not have Node installed in your PC, you can install it from [here](https://nodejs.org/en/download/)
-* Make sure Git is installed on your PC or download ZIP file or directly fork to your server
- ============================
  
 ## 💨 Insallation
-* Make sure Git is installed on your PC or download ZIP file or directly fork to your server
 ```
 git clone https://github.com/nottmayank/top.gg-vote-tracker
 cd top.gg-vote-tracker
