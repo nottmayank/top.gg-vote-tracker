@@ -34,15 +34,8 @@ npm install
 * Authorization will be the passward which you entered in ```config.js```
 ![Looks](https://cdn.discordapp.com/attachments/880008934226800670/969257060472594493/unknown.png)
 * Now click save and run Test
-* ============================
-* 
-## 💫 Features
-| Feature           | Has                                                            |
-| ----------------- | ------------------------------------------------------------------ |
-| Easy to use | ✅  |
-| Open Source | ✅  |
-| Runs on private webhook server | ✅  |
-| Fetches user from Discord's API | ✅  |
+   ============================
+
 
 ## 💁‍♂️ Support
-* For any kind of help you can contact me on [Discord](https://discord.com/users/506339635103006721) FrenZy#1320
+* For any kind of help you can contact me on [Discord](https://discord.com/users/506339635103006721) sonimayank
